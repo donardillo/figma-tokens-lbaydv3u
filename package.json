@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/island-xray-zkzjr.figma-tokens-lbaydv3u",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve eOWki9zVRTDvYUkn8qks --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
